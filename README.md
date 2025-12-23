@@ -35,6 +35,6 @@ This project presents an end-to-end Power BI dashboard built using Zomato data t
 - Analyzed user churn to understand retention challenges
 - Compared yearly performance to track business growth and decline
 
-Overview of this Project :
+Overview of this Project : https://github.com/NaveeenPN/Data-to-Dine-zomato/blob/main/Overview.png
 
 This project demonstrates practical data analysis skills, business thinking, and dashboard design best practices using Power BI.
